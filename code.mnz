@@ -10,4 +10,4 @@ constraint
 
 solve satisfy;
 
-output ["Solución: \(x)"];
+output ["Solution: \(x)"];
